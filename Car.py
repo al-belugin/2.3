@@ -7,13 +7,13 @@ for i in list_:
 
 cars_cont = 0
 
-for i in range (len(list_)):
+for i in range(len(list_)):
     print(list_[i])
 
-print (list_)
+print(list_)
 
 
 cars_cont = 0
-for i in range (len(list_)):
+for i in range(len(list_)):
     cars_cont += 10
-print (cars_cont)
+print(cars_cont)
